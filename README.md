@@ -1,0 +1,2 @@
+# usgs-quake
+Earthquake Datamap
