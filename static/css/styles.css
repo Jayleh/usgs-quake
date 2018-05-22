@@ -4,10 +4,18 @@ body {
     margin: 0;
 }
   
-  /* set map, body, and html to 100% of the screen size */
+/* set map, body, and html to 100% of the screen size */
 #map,
 body,
 html {
     height: 100%;
 }
-  
+
+/* Show legend color scale */
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.8;
+}
