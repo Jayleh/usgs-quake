@@ -6,10 +6,11 @@ Earthquake Datamap: The USGS is responsible for providing scientific data about 
 ## Webpage:
 * https://jayleh.github.io/usgs-quake/
 
-## Technology Stack
+## Technology Stack:
 HTML/CSS/Bootstrap<br>
 Javascript<br>
 D3.js<br>
+Leaflet.js
 
 ## Data Sources:
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
